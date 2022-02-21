@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "TokenManagerERC721.sol _exit() function uses transferFrom",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/10"
+}
