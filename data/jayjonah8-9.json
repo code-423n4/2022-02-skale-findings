@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "users not protected using transferFrom on ERC721 tokens",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/9"
+}
