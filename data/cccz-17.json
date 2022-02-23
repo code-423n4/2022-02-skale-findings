@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "MINTER_ROLE can be granted by the deployer of EthErc20 and mint arbitrary amount of tokens",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/17"
+}
