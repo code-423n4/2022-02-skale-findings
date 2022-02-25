@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Can drain `ETHERBASE`",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/25"
+}
