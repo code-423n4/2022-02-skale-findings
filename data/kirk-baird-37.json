@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "2",
+  "title": "Malicious `destinationContract` Could Cause Bridge To Become Stucl",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/37"
+}
