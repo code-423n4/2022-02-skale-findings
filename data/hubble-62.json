@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "There is a possibility of Token transfer getting stuck when using Erc1155BatchMessage",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/62"
+}
