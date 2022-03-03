@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`setGasPrice()` Can be Called by Anyone",
+  "issueId": 81,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/81"
+}
