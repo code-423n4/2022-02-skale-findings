@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "Miners Can Manipulate `tx.gasprice` to Drain Users' Wallets in `postIncomingMessages()`",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/80"
+}
