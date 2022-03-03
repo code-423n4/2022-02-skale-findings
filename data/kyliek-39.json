@@ -1,0 +1,9 @@
+{
+  "contest": 88,
+  "handle": "kyliek",
+  "address": "0xdE624A36bcCd38DB850365b34Bc99ab3b1252415",
+  "risk": "3",
+  "title": "Trapped fund in transferredAmount on mainnet with accidental burn by user on schain",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-02-skale-findings/issues/39"
+}
