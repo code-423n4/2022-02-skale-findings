@@ -1,3 +1,11 @@
+---
+sponsor: "SKALE"
+slug: "2022-02-skale"
+date: "2022-11-11"
+title: "SKALE contest"
+findings: "https://github.com/code-423n4/2022-02-skale-findings/issues"
+contest: 88
+---
 
 # Overview
 
